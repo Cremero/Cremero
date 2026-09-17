@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on skynet
+- 🔭 I’m currently working on skynet and some new interesting proyects
 - 🌱 I’m currently learning ASIR
 - 🤔 I’m looking for help with skynet
 - 💬 Ask me about my homelab
