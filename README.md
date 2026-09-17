@@ -23,4 +23,4 @@ Linux · Docker · Git · Networking (DNS, VPN, firewalls) · Bash · n8n
 
 📫 Contact
 
-[your email] · [your LinkedIn]
+lucas.martin.puig@gmail.com · https://www.linkedin.com/in/lucas-martin-puig/
